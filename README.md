@@ -17,4 +17,5 @@
 ### Todos:
 
 1.To increase the text size.
+
 2.To add more than 2 text inputs
