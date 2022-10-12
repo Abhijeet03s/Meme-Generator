@@ -16,6 +16,10 @@
 
 ### Todos:
 
-1.To increase the text size.
+1.Make Responsive.
 
-2.To add more than 2 text inputs
+2.To increase the text size.
+
+3.To add more than 2 text inputs
+
+
